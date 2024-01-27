@@ -50,10 +50,10 @@ function Asax() {
         
         <div>
         <swiper-container  ref={Kass} init='false'>
-      <swiper-slide><img class="big-ad-photo swiper-lazy swiper-lazy-loaded" src="https://assets.asaxiy.uz/uploads/banner/desktop/65a25a1a47217.jpg.webp"/></swiper-slide>
-        <swiper-slide><img class="big-ad-photo swiper-lazy swiper-lazy-loaded" src="https://assets.asaxiy.uz/uploads/banner/desktop/6543816c3296a.jpg.webp"/></swiper-slide>
-        <swiper-slide><img class="big-ad-photo swiper-lazy swiper-lazy-loaded" src="https://assets.asaxiy.uz/uploads/banner/desktop/6569b37943029.jpg.webp"/></swiper-slide>
-        <swiper-slide><img class="big-ad-photo swiper-lazy swiper-lazy-loaded" src="https://assets.asaxiy.uz/uploads/banner/desktop/659d2b48deb64.jpg.webp"/></swiper-slide>
+        <swiper-slide><img src="https://assets.asaxiy.uz/uploads/banner/desktop/659d2b48deb64.jpg.webp"/></swiper-slide>
+      <swiper-slide><img  src="https://assets.asaxiy.uz/uploads/banner/desktop/65a25a1a47217.jpg.webp"/></swiper-slide>
+        <swiper-slide><img  src="https://assets.asaxiy.uz/uploads/banner/desktop/6543816c3296a.jpg.webp"/></swiper-slide>
+        <swiper-slide><img  src="https://assets.asaxiy.uz/uploads/banner/desktop/6569b37943029.jpg.webp"/></swiper-slide>
       </swiper-container>
       
         </div>
